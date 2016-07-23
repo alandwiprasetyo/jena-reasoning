@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="com.hp.hpl.jena:jena:2.6.4" type="repository">
+    <properties maven-id="com.hp.hpl.jena:jena:2.6.4" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jena-2.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/iri-0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/icu4j-3.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xercesImpl-2.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.5.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.5.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,5 @@
+@prefix : <http://oanaureche.com/prefix#> .
+@prefix pre: <http://jena.hpl.hp.com/prefix#> .
+:Alan pre:father :Kala .
+:Viyan pre:brother :Alan .
+:Alan pre:brother :Rochmat .

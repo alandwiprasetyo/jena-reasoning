@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="org.apache.jena:jena-arq:2.12.1" type="repository">
+    <properties maven-id="org.apache.jena:jena-arq:2.12.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jena-arq-2.12.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jena-core-2.12.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jena-iri-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xercesImpl-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xml-apis-1.4.01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsonld-java-0.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcl-over-slf4j-1.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-cache-4.2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/libthrift-0.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-csv-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
